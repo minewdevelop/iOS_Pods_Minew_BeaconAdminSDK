@@ -1,0 +1,16 @@
+PODS:
+  - MinewBeaconAdmin (0.1.0)
+
+DEPENDENCIES:
+  - MinewBeaconAdmin (from `../`)
+
+EXTERNAL SOURCES:
+  MinewBeaconAdmin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MinewBeaconAdmin: 1ac1b9500ec35ce32fad13f00b0d6b35cc85aaaf
+
+PODFILE CHECKSUM: c386b163b48e61602a25ac40921c6fd496f8b998
+
+COCOAPODS: 1.10.0
