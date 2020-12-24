@@ -1,8 +1,10 @@
+### [Documentation](https://docs.beaconyun.com/zh-CN/iOS/iOS_BeaconAdmin_Software_Development_Kit_Guide.html)
+---
+
 # Change Log
 
-------
 
-## [1.0.0](https://github.com/minewdevelop/iOS_Pods_Minew_BeaconPlusSDK/releases/tag/1.0.0)(12/4/2020)
+## [1.0.0](https://github.com/minewdevelop/iOS_Pods_Minew_BeaconAdminSDK/releases/tag/1.0.0)(12/4/2020)
 
 Released on Monday, December 23, 2020. 
 
